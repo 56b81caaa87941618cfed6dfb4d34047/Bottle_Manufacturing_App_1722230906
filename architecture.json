@@ -42,5 +42,9 @@
     {
         "level": 1,
         "task_description": "remove that toggle button"
+    },
+    {
+        "level": 1,
+        "task_description": "remove that toggle button"
     }
 ]
