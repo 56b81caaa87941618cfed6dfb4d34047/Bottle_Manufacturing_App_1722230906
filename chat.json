@@ -1,6 +1,15 @@
 [
     {
         "role": "user",
+        "content": "remove that toggle button",
+        "message_id": "guest29072024053745",
+        "timestamp": "29072024053745",
+        "component_file_name": "blank_component_1722230927",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "user",
         "content": "change the text of Free and GoodNight to sure",
         "message_id": "guest29072024053729",
         "timestamp": "29072024053729",
