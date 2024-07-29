@@ -16,16 +16,16 @@ Vue.component("blank_component_1722230927", {
         <div>
             <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
             <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
-            <section id="blank-section" class="bg-gradient-to-r from-yellow-400 to-blue-400 dark:from-yellow-600 dark:to-blue-600 flex-1">
+            <section id="blank-section" class="bg-gradient-to-r from-yellow-400 to-blue-400 dark:from-yellow-600 dark:to-blue-600 min-h-screen flex items-center justify-center">
                 <div id="blank-container" class="max-w-screen-xl px-4 pt-20 pb-8 mx-auto lg:gap-8 xl:gap-0 lg:py-16 lg:grid-cols-12 lg:pt-28">
-                    <div class="flex justify-center items-center mt-8 space-x-4">
-                        <button class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-lg shadow-md transform transition duration-300 hover:scale-105">
-                            Click Me
+                    <div class="flex flex-col items-center justify-center mt-8 space-y-4">
+                        <button class="w-full md:w-64 bg-blue-500 hover:bg-blue-700 text-white font-bold py-3 px-6 rounded-lg shadow-lg transform transition duration-300 hover:scale-105">
+                            Sure
                         </button>
-                        <button class="bg-green-500 hover:bg-green-700 text-white font-bold py-2 px-4 rounded-lg shadow-md transform transition duration-300 hover:scale-105">
+                        <button class="w-full md:w-64 bg-green-500 hover:bg-green-700 text-white font-bold py-3 px-6 rounded-lg shadow-lg transform transition duration-300 hover:scale-105">
                             Press Here
                         </button>
-                        <button class="bg-red-500 hover:bg-red-700 text-white font-bold py-2 px-4 rounded-lg shadow-md transform transition duration-300 hover:scale-105">
+                        <button class="w-full md:w-64 bg-red-500 hover:bg-red-700 text-white font-bold py-3 px-6 rounded-lg shadow-lg transform transition duration-300 hover:scale-105">
                             Tap This
                         </button>
                     </div>
