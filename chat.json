@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the toggle button to be positioned within the app interface?\", \"option1\": \"In the settings menu\", \"option2\": \"Directly on the home screen for easy access\"}, {\"question 2\": \"Do you want a visual indicator or label to show which AI model is currently activated after toggling?\", \"option1\": \"Yes, show the name of the active AI model next to the toggle\", \"option2\": \"No, just change the functionality without a visual indicator\"}], \"input_token_count\": 269, \"output_token_count\": 116, \"time_taken\": \"0:00:04.735557\"}",
+        "message_id": "guest29072024053011",
+        "timestamp": "29072024053017",
+        "component_file_name": "blank_component_1722230927",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "I will add a toggle button to switch models.",
         "message_id": "guest29072024053011",
