@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Alright, I'm adding three buttons with randomized text for you.",
+        "message_id": "guest29072024053844",
+        "timestamp": "29072024053845",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "add atleast 3 buttons with random texts",
         "message_id": "guest29072024053844",
