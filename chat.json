@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Understood, working on removing the toggle button.",
+        "message_id": "guest29072024053745",
+        "timestamp": "29072024053745",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "remove that toggle button",
         "message_id": "guest29072024053745",
