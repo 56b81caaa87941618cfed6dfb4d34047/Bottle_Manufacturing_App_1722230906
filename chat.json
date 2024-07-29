@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Customizable theme settings for users to personalize their app experience\", \"checked\": false}, {\"feature\": \"Progress indicator for bottle creation process to visualise the steps\", \"checked\": true}, {\"feature\": \"Feedback form for user suggestions and improvements on AI models\", \"checked\": false}, {\"feature\": \"Save and share option for bottle designs\", \"checked\": true}, {\"feature\": \"Real-time collaboration tool for team bottle projects\", \"checked\": false}, {\"feature\": \"AI recommendation engine suggesting bottle designs based on user preferences\", \"checked\": true}], \"input_token_count\": 223, \"output_token_count\": 130, \"time_taken\": \"0:00:05.076004\"}",
+        "message_id": "guest29072024053011",
+        "timestamp": "29072024053017",
+        "component_file_name": "blank_component_1722230927",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the toggle button to be positioned within the app interface?\", \"option1\": \"In the settings menu\", \"option2\": \"Directly on the home screen for easy access\"}, {\"question 2\": \"Do you want a visual indicator or label to show which AI model is currently activated after toggling?\", \"option1\": \"Yes, show the name of the active AI model next to the toggle\", \"option2\": \"No, just change the functionality without a visual indicator\"}], \"input_token_count\": 269, \"output_token_count\": 116, \"time_taken\": \"0:00:04.735557\"}",
         "message_id": "guest29072024053011",
