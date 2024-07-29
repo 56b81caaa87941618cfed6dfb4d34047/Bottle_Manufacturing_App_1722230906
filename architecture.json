@@ -50,5 +50,9 @@
     {
         "level": 1,
         "task_description": "change the background color to yellow and blue"
+    },
+    {
+        "level": 1,
+        "task_description": "change the background color to yellow and blue"
     }
 ]
