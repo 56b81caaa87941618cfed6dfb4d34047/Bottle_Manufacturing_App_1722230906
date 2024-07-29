@@ -22,5 +22,9 @@
     {
         "level": 1,
         "task_description": "add a button with text Free And Good NIght"
+    },
+    {
+        "level": 1,
+        "task_description": "This is the user's previous chat history with this AI:\nThe user requested a change in the background color to green and yellow, to which the AI responded by acknowledging the request and proceeding to make the change. Additionally, the AI asked the user to provide more details about the project, indicating an interest in understanding the context or requirements of the project more fully. This suggests an interactive and responsive dialogue aimed at tailoring the project's output to the user's needs.\nAI: Alright, I'll add a button with the text \"Free And Good Night\".\nUser: add a button with text Free And Good NIght\nAI: I will add a toggle button to switch models.\nUser: add a toggle button to switch between gpt4o and claude3\nThis is the user's current request of changes to be made: make the appearance if the button to look goo"
     }
 ]
