@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where should these buttons be positioned in the app interface?\", \"option1\": \"At the bottom of the screen as floating action buttons.\", \"option2\": \"Integrated within the main content area.\"}, {\"question 2\": \"What is the primary function or action for each of these buttons?\", \"option1\": \"Each button opens a different section of the app.\", \"option2\": \"Each button triggers a specific action (like refresh, submit, etc.).\"}], \"input_token_count\": 262, \"output_token_count\": 107, \"time_taken\": \"0:00:03.682363\"}",
+        "message_id": "guest29072024053844",
+        "timestamp": "29072024053849",
+        "component_file_name": "blank_component_1722230927",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Alright, I'm adding three buttons with randomized text for you.",
         "message_id": "guest29072024053844",
