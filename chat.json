@@ -1,6 +1,15 @@
 [
     {
         "role": "user",
+        "content": "add atleast 3 buttons with random texts",
+        "message_id": "guest29072024053844",
+        "timestamp": "29072024053845",
+        "component_file_name": "blank_component_1722230927",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "user",
         "content": "change the background color to yellow and blue",
         "message_id": "guest29072024053815",
         "timestamp": "29072024053816",
