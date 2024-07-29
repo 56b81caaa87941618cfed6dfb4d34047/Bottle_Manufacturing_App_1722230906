@@ -14,5 +14,9 @@
     {
         "level": 1,
         "task_description": "add a toggle button to switch between gpt4o and claude3"
+    },
+    {
+        "level": 1,
+        "task_description": "add a button with text Free And Good NIght"
     }
 ]
