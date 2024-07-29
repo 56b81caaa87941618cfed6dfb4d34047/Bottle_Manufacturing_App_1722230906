@@ -12,5 +12,11 @@
         "content": "Working on changing the background color to green and yellow.",
         "timestamp": "29072024052916",
         "message_id": "guest29072024052916"
+    },
+    {
+        "role": "user",
+        "content": "change the background color to green and yellow",
+        "timestamp": "29072024052917",
+        "message_id": "guest29072024052916"
     }
 ]

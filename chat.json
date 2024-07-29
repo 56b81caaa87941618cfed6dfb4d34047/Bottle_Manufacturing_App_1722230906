@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "change the background color to green and yellow",
+        "message_id": "guest29072024052916",
+        "timestamp": "29072024052917",
+        "component_file_name": "blank_component_1722230927",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Working on changing the background color to green and yellow.",
         "message_id": "guest29072024052916",
