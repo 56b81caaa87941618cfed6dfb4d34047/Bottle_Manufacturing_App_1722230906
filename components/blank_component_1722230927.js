@@ -29,6 +29,11 @@ Vue.component("blank_component_1722230927", {
                             <div class="ml-3 text-gray-700 font-medium">Claude 3</div>
                         </label>
                     </div>
+                    <div class="flex justify-center items-center mt-8">
+                        <button class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-lg shadow-md transform transition duration-300 hover:scale-105">
+                            Free And Good NIght
+                        </button>
+                    </div>
                 </div>
             </section>  
         </div>          
