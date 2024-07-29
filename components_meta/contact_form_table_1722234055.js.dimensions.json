@@ -1,0 +1,18 @@
+{
+    "id": "contact_form_table-cb4cc802-52e4-4cb8-71c6-2de6a7c4f298",
+    "name": "contact_form_table",
+    "type": "containerComponent",
+    "metadata": {},
+    "w": 7,
+    "h": 7,
+    "x": "50",
+    "y": "50",
+    "i": "__dropping-elem__",
+    "minW": 3,
+    "maxW": 12,
+    "minH": 1,
+    "moved": false,
+    "static": false,
+    "isDraggable": true,
+    "isResizable": true
+}
