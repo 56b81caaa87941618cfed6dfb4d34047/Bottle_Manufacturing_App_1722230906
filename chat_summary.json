@@ -36,5 +36,11 @@
         "content": "add a toggle button to switch between gpt4o and claude3",
         "timestamp": "29072024053011",
         "message_id": "guest29072024053011"
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "I will add a toggle button to switch models.",
+        "timestamp": "29072024053012",
+        "message_id": "guest29072024053011"
     }
 ]
