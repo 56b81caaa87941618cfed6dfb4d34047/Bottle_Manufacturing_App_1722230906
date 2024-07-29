@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Can you specify which screen or section of the app the toggle button you're referring to is located?\", \"option1\": \"On the customization screen\", \"option2\": \"In the settings menu\"}, {\"question 2\": \"Do you want to replace the toggle button with another type of control or just remove it without substitution?\", \"option1\": \"Replace it with another control\", \"option2\": \"Just remove it, no replacement needed\"}], \"input_token_count\": 258, \"output_token_count\": 104, \"time_taken\": \"0:00:03.406592\"}",
+        "message_id": "guest29072024053745",
+        "timestamp": "29072024053749",
+        "component_file_name": "blank_component_1722230927",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Understood, working on removing the toggle button.",
         "message_id": "guest29072024053745",
