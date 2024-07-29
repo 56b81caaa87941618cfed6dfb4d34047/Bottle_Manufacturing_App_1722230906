@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you have specific shades of green and yellow in mind for the background, or would you like us to suggest options based on the app's design and branding?\", \"option1\": \"I have specific shades in mind. (Please provide the color codes.)\", \"option2\": \"Please suggest options that best fit the app's design and branding.\"}, {\"question 2\": \"Should the background involve a gradient blending from green to yellow, or would you prefer distinct sections for each color?\", \"option1\": \"Use a gradient blending from green to yellow.\", \"option2\": \"Make distinct sections for each color.\"}], \"input_token_count\": 262, \"output_token_count\": 138, \"time_taken\": \"0:00:03.963452\"}",
+        "message_id": "guest29072024052916",
+        "timestamp": "29072024052921",
+        "component_file_name": "blank_component_1722230927",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "change the background color to green and yellow",
         "message_id": "guest29072024052916",
