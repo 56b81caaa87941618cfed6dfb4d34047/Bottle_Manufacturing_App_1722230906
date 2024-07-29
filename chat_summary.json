@@ -6,5 +6,11 @@
         "timestamp": "1722230907",
         "component_file_name": "",
         "div_id": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Working on changing the background color to green and yellow.",
+        "timestamp": "29072024052916",
+        "message_id": "guest29072024052916"
     }
 ]
